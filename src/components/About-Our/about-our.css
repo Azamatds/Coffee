@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&family=Oswald:wght@200&family=Readex+Pro:wght@200&family=Ubuntu:wght@700&display=swap');
+
+.section_2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.about-our{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about_img{
+
+}
+.beans{
+    margin-left: 80px;
+}
+h3{
+    font-family: 'Merienda',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+}
+.beans_triple{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.beans_triple_span:first-child{
+    margin-right: 25px;
+}
+.beans_triple_span{
+    width: 50px;
+    height: 0;
+    border: 1px solid #000000;
+    margin-left: 25px;
+}
+.beans_triple image{
+    text-align: center;
+}
+.beans_description{
+    max-width: 346px;
+    font-family: 'Merienda',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+.bottom_line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 58px;
+    width: 240px;
+    height: 0;
+    border: 1px solid #000000;
+
+}

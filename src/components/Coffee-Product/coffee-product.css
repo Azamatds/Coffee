@@ -1,0 +1,17 @@
+.product-list{
+    margin: 60px auto;
+    width: 65%;
+}
+.cards_first{
+    display: grid;
+    /*grid-template-rows:  0.5fr 0.5fr 0.5fr;*/
+    grid-template-columns: 0.5fr 0.5fr 0.5fr;
+    grid-gap: 2vw;
+}
+.cards_second{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+

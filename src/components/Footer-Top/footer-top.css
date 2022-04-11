@@ -1,0 +1,41 @@
+.footer{
+    margin-top: 30px;
+}
+.footer_desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 52px;
+}
+.footer-ul{
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_li{
+    font-family: 'Merienda', cursive;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 40px;
+    margin-top: 52px;
+    list-style: none;
+    font-size: 12px;
+}
+.footer_li:first-child{
+    margin-top: 28px;
+    list-style-image: url("./Vector_footer.png");
+}
+.beans_triple{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.beans_triple_span{
+    width: 50px;
+    height: 0;
+    border: 1px solid #000000;
+    margin-left: 25px;
+}

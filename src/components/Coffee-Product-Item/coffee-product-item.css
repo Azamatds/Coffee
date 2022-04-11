@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&family=Oswald:wght@200&family=Readex+Pro:wght@200&family=Ubuntu:wght@700&display=swap');
+
+.card{
+}
+.card_part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background: #FFFFFF;
+    -webkit-box-shadow: 22px 20px 11px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 22px 20px 11px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 22px 20px 11px 0px rgba(34, 60, 80, 0.2);
+    border-radius: 8px;
+    width: 220px;
+    height: 300px;
+}
+.card_img{
+    display: block;
+    text-align: center;
+    padding-top: 37px;
+
+}
+.description{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.desc_1{
+    margin-top: 14px;
+    font-family: 'Merienda',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+.desc_2{
+    margin-top: 14px;
+    font-family: 'Merienda',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    color: #000000;
+}
+
+.desc_3{
+    margin-top: 14px;
+    font-family: 'Merienda',cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    padding-bottom: 22px;
+    color: #000000;
+}
+.description button{
+    outline: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
